@@ -1,0 +1,1 @@
+cl.exe /EHsc /Od /DPerfDebugMain /utf-8 BlueNoiseMain.cpp BlueNoiseUtils.cpp BlueNoiseUtilsSave.cpp

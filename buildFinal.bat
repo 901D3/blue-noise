@@ -1,0 +1,1 @@
+cl.exe /O2 /GL /EHsc /fp:fast /arch:AVX2 /utf-8 BlueNoiseMain.cpp BlueNoiseUtils.cpp BlueNoiseUtilsSave.cpp
